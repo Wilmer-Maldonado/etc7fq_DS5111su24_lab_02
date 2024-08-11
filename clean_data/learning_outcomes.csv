@@ -1,4 +1,4 @@
-mnemonic,learning_outcome,active
+ï»¿mnemonic,learning_outcome,active
 ds_tech_bootcamp,Research documentation on your own as a first line of action,TRUE
 ds_tech_bootcamp,Describe the components of a computer,TRUE
 ds_tech_bootcamp,Explain the scales of computational power and scales of data,TRUE
@@ -92,14 +92,14 @@ ds5110,Understand the concepts behind HDFS,TRUE
 ds5110,Understand the concepts behind Hive.,TRUE
 ds5110,Have some familiarity with running PySpark in a Databricks notebook,TRUE
 ds5110,"Understand how EC2 and S3 are used for computing and storage, respectively",TRUE
-ds5110,Demonstrate the steps for configuring and launching an AWS EC2 instance,TRUE
+ds5110,Demonstrate the steps for configuring and launchingÂ an AWS EC2 instance,TRUE
 ds5110,Understand the capabilities of Amazon Glue and Athena,TRUE
 ds5110,Understand the concepts and use cases behind Apache Kafka,TRUE
 ds5110,Create and configure an Amazon S3 bucket,TRUE
 ds5110,Apply the concepts behind streaming systems,TRUE
 ds5110,Execute the Spark Streaming library,TRUE
 ds5110,Compute analytics using Spark Streaming,TRUE
-ds5110,Explain the properties of data lakes and data lakehouses,TRUE
+ds5110,Explain the properties ofÂ data lakes and data lakehouses,TRUE
 ds5110,"Explain the shortcomings of data lakes, and how data lakehouses address these shortcomings",TRUE
 ds5110,"Work with Apache Delta lakes to implement their salient features (create, delete, update, conditional update, time travel)",TRUE
 ds5110,Implement GraphX and GraphFrames in Spark,TRUE
@@ -170,7 +170,7 @@ ds_biz_analytics,Collaborate effectively with peers,TRUE
 ds_biz_analytics,Formulate and ask insightful questions,TRUE
 ds_biz_analytics,Engage appropriately with senior executives at an enterprise level,TRUE
 ds6040,Probability review,TRUE
-ds6040,Use the elements of Bayes theorem in problem solving,TRUE
+ds6040,Use the elements of BayesÂ theorem in problem solving,TRUE
 ds6040,Use univariate conjugate priors to analytically obtain the posterior distribution,TRUE
 ds6040,Use multivariate conjugate priors to analytically obtain the posterior distribution,TRUE
 ds6040,Use non-informative priors to analytically obtain the posterior distribution,TRUE

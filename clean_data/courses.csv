@@ -1,0 +1,18 @@
+﻿mnemonic,name,active
+ds_biz_anaytics,Business Analytics for Data Scientists,TRUE
+ds_tech_bootcamp,Technical Bootcamp,TRUE
+ds5001,Exploratory Text Analytics,TRUE
+ds5012,Foundations of Computer Science,TRUE
+ds5100,Programming for Data Science,TRUE
+ds5110,Big Data Systems,TRUE
+ds6001,Practice and Application of Data Science,TRUE
+ds6002,Big Data Ethics,TRUE
+ds6011,Data Science Capstone Project Work I,TRUE
+ds6013,Data Science Capstone Project Work II,TRUE
+ds6030,Statistical Learning,TRUE
+ds6040,Bayesian Machine Learning,TRUE
+ds6050,Deep Learning,TRUE
+sarc5400,Data Visualization,TRUE
+stat6021,Linear Models for Data Science,TRUE
+ds6003,Practice and Application of Data Science Part 2,FALSE
+ds6012,Big Data Ethics Part 2,FALSE

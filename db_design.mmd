@@ -1,0 +1,27 @@
+erDiagram
+    learning_outcomes {
+        varchar mnemonic
+        varchar learning_outcome
+        bool active
+    }
+
+    instructors {
+        varchar instructor
+        bool active
+    }
+
+    semesters {
+        varchar semester
+        varchar mnemonic
+        varchar instructor
+    }
+
+    courses {
+        varchar mnemonic
+        varchar name
+        bool active
+    }
+
+    semesters ||--o{ instructors : instructor
+    semesters ||--o{ courses : mnemonic
+    courses ||--o{ learning_outcomes : mnemonic
